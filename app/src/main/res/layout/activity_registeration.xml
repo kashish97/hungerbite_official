@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="50sp"
+    tools:context=".RegisterationActivity"
+    android:orientation="vertical">
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="315dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30sp"
+        android:textColorHint="@color/g">
+
+        <EditText
+            android:id="@+id/editTextFname"
+            android:layout_width="match_parent"
+            android:textColor="@color/black"
+            android:layout_height="45dp"
+            android:ems="10"
+            android:fontFamily="@font/montserrat"
+            android:hint="First Name"
+            android:inputType="textPersonName" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="327dp"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/g">
+
+        <EditText
+            android:id="@+id/editTextlname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+
+            android:ems="10"
+            android:fontFamily="@font/montserrat"
+
+            android:hint="Last Name"
+
+            android:inputType="textPersonName"
+
+            android:textSize="18sp" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="332dp"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/g">
+
+        <EditText
+            android:id="@+id/ediemail"
+            android:textColor="@color/black"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:fontFamily="@font/montserrat"
+
+            android:hint="Email Address"
+
+            android:inputType="textEmailAddress" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="321dp"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/g">
+
+        <EditText
+            android:id="@+id/editTextphone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+
+            android:ems="10"
+
+            android:fontFamily="@font/montserrat"
+
+            android:hint="Phone Number"
+            android:inputType="phone" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="347dp"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/g">
+
+        <EditText
+            android:id="@+id/edipass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+
+            android:ems="10"
+            android:fontFamily="@font/montserrat"
+            android:hint="Password"
+
+            android:inputType="textPassword" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="344dp"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/g">
+
+        <EditText
+            android:id="@+id/editTextcpass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:fontFamily="@font/montserrat"
+            android:textColor="@color/black"
+
+
+
+            android:hint="Confirm Password"
+            android:inputType="textPassword" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="395dp"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/g">
+
+        <EditText
+            android:id="@+id/editTextknow"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textColor="@color/black"
+
+            android:ems="10"
+
+            android:fontFamily="@font/montserrat"
+            android:hint="From Where Did You Get to Know About Us?"
+            android:inputType="textPersonName"
+
+            android:textSize="17sp" />
+    </android.support.design.widget.TextInputLayout>
+
+    <TableRow
+        android:id="@+id/hr"
+        android:layout_width="match_parent"
+        android:layout_marginTop="15sp"
+        android:layout_height="wrap_content"
+        android:background="#07000000"></TableRow>
+
+    <Button
+        android:id="@+id/buttonsubmit"
+        android:layout_width="315dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginTop="15sp"
+        android:layout_marginBottom="4sp"
+        android:background="@color/bite"
+        android:text="REGISTER"
+        android:textColor="@color/white" />
+
+</LinearLayout>

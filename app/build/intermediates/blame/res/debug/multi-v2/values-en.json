@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "/Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/autoupdate-1.6.8.aar/aa8600ba6f349c3c1a2470e960fa73cf/res/values-en/values-en.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,116,171,229,294,371",
+                        "endColumns": "60,54,57,64,76,70",
+                        "endOffsets": "111,166,224,289,366,437"
+                    }
+                }
+            ]
+        }
+    ]
+}

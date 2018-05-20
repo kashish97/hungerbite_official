@@ -1,0 +1,391 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:2:1-77:12
+MERGED from [com.github.badoualy:stepper-indicator:1.0.7] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/stepper-indicator-1.0.7.aar/051a81faaaa48782d023d099053ce680/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.medyo:android-about-page:1.2.4] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.4.aar/91b96527f492d108a0a9a8c23b874c41/AndroidManifest.xml:2:1-12:12
+MERGED from [com.ms-square:expandableTextView:0.1.4] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/expandableTextView-0.1.4.aar/12a235bee0ccea03a74a35e31979711c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/6901eb763af698dd442fe59607498e3b/AndroidManifest.xml:17:1-22:12
+MERGED from [me.himanshusoni.quantityview:quantity-view:1.2.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/quantity-view-1.2.0.aar/8c624649461c8e7811cf797924d7e61e/AndroidManifest.xml:2:1-16:12
+MERGED from [br.com.simplepass:loading-button-android:1.14.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/loading-button-android-1.14.0.aar/da6071aade0021ad3e00bfb21da4a9d9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.florent37:materialtextfield:1.0.7] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/materialtextfield-1.0.7.aar/eb40efc94f8d66711993379e88850139/AndroidManifest.xml:2:1-12:12
+MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/sectionedrecyclerviewadapter-1.2.0.aar/d859a0f5f1f581c11a9093c60b92989a/AndroidManifest.xml:2:1-15:12
+MERGED from [com.github.javiersantos:BottomDialogs:1.2.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/BottomDialogs-1.2.1.aar/125651df4dc1ced2cf319b2f845013db/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/FancyGifDialog-Android-1.1.aar/04d5d790d6a6f7257770e71c1b2f334b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/dea8638f085cad7f768d4a40e652ba16/AndroidManifest.xml:2:1-15:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/02e1ea484bd3f1364766cdd3f35a4b0b/AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/112479a7fc3d1b6f2226223998dd4712/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d72171b6d4ee49f593663f4c55a8f974/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:palette-v7:22.2.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/palette-v7-22.2.0.aar/9f21ec75b31268a3e82eadf65973e27d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.github.systembugtj:autoupdate:1.6.8] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/autoupdate-1.6.8.aar/aa8600ba6f349c3c1a2470e960fa73cf/AndroidManifest.xml:2:1-25:12
+MERGED from [com.google.android.gms:play-services-location:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.0.aar/862985f5699c2997a3a4d39f453d2574/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/4a7410cc28ab3c3d525d341b7fce9e81/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/81408876aa522f6b81f46999fb1afbe8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/06a20a4212c2771507f789c28d9ff4c7/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b2478e8cf3d8f5169e579a2899416d92/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.Yalantis:GuillotineMenu-Android:1.2] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/GuillotineMenu-Android-1.2.aar/764d6d397c7db0aaa159e34797b05f47/AndroidManifest.xml:2:1-14:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/28ddf6bafabb65514f1157bf72ebd37e/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.volley:volley:1.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/856472cdf860a03075d4e371da23e4c9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/b2414044482b919531bef41bfd008e13/AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/aa785e9892c04d131bc9760ae7d1f069/AndroidManifest.xml:2:1-11:12
+MERGED from [org.zakariya.stickyheaders:stickyheaders:0.7.6] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/stickyheaders-0.7.6.aar/377760671c6bf6344be8c5943d0f0be1/AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/fa05ffbedb64fd040f8bf9c2a00dfbe9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.clans:fab:1.6.4] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/f1e9548314bea18adc9b3d01f2d99c89/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.jlmd:AnimatedCircleLoadingView:1.1.5] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/AnimatedCircleLoadingView-1.1.5.aar/2f7ea244d4025ab40bbec30660b22a3b/AndroidManifest.xml:2:1-16:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/sdp-android-1.0.5.aar/5a7ab633cb72c0b946640eb32d11694b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:27.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/1344c96482665e2ce71692daddf78350/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4ce86319ab721fbf13adf1b183993c5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/1cb4dc06bf98269557b88d064b10990a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0d8a3c9137a17795b30a959de62b423b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/57975afeab3c417455d4aed8720b06ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/db5680b9ec740c068bf2ba06903eaef6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/1411da8dcb658cfcff4dcc7fab1dfffd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ac617baf6fdeffcd6481e5338846cff8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.0.aar/cfbcdf9ccfc451a1cc9ce9c4b34fbe73/AndroidManifest.xml:2:1-8:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.10.aar/d28dfe5c9c41e220a717d617ef01afb8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.0.aar/a49935e12a83ca9292454b9f5c25b199/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/87bc3cb5109b2cd26af442e16ca3ebcf/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/134d890c98ff9e6c1893bf86e640f051/AndroidManifest.xml:2:1-8:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/529839dbcf00c0cf2ce01c6fa26b15b1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/56c0847d244b50e80787975cdf52bd1d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e518e7832c5649fff694598d7d50827c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a40c3c4bea9d5c890a4eccce595041c2/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:2:1-77:12
+	package
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:2:1-77:12
+		INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:2:1-77:12
+		INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:9:5-89
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:9:22-86
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:10:22-73
+application
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:12:5-75:19
+MERGED from [com.github.badoualy:stepper-indicator:1.0.7] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/stepper-indicator-1.0.7.aar/051a81faaaa48782d023d099053ce680/AndroidManifest.xml:12:5-20
+MERGED from [com.github.badoualy:stepper-indicator:1.0.7] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/stepper-indicator-1.0.7.aar/051a81faaaa48782d023d099053ce680/AndroidManifest.xml:12:5-20
+MERGED from [com.ms-square:expandableTextView:0.1.4] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/expandableTextView-0.1.4.aar/12a235bee0ccea03a74a35e31979711c/AndroidManifest.xml:9:5-20
+MERGED from [com.ms-square:expandableTextView:0.1.4] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/expandableTextView-0.1.4.aar/12a235bee0ccea03a74a35e31979711c/AndroidManifest.xml:9:5-20
+MERGED from [me.himanshusoni.quantityview:quantity-view:1.2.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/quantity-view-1.2.0.aar/8c624649461c8e7811cf797924d7e61e/AndroidManifest.xml:11:5-14:19
+MERGED from [me.himanshusoni.quantityview:quantity-view:1.2.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/quantity-view-1.2.0.aar/8c624649461c8e7811cf797924d7e61e/AndroidManifest.xml:11:5-14:19
+MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/sectionedrecyclerviewadapter-1.2.0.aar/d859a0f5f1f581c11a9093c60b92989a/AndroidManifest.xml:12:5-13:19
+MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/sectionedrecyclerviewadapter-1.2.0.aar/d859a0f5f1f581c11a9093c60b92989a/AndroidManifest.xml:12:5-13:19
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/dea8638f085cad7f768d4a40e652ba16/AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/dea8638f085cad7f768d4a40e652ba16/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d72171b6d4ee49f593663f4c55a8f974/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d72171b6d4ee49f593663f4c55a8f974/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:palette-v7:22.2.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/palette-v7-22.2.0.aar/9f21ec75b31268a3e82eadf65973e27d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:22.2.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/palette-v7-22.2.0.aar/9f21ec75b31268a3e82eadf65973e27d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.systembugtj:autoupdate:1.6.8] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/autoupdate-1.6.8.aar/aa8600ba6f349c3c1a2470e960fa73cf/AndroidManifest.xml:11:5-23:19
+MERGED from [com.github.systembugtj:autoupdate:1.6.8] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/autoupdate-1.6.8.aar/aa8600ba6f349c3c1a2470e960fa73cf/AndroidManifest.xml:11:5-23:19
+MERGED from [com.google.android.gms:play-services-location:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.0.aar/862985f5699c2997a3a4d39f453d2574/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.0.aar/862985f5699c2997a3a4d39f453d2574/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/4a7410cc28ab3c3d525d341b7fce9e81/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/4a7410cc28ab3c3d525d341b7fce9e81/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/81408876aa522f6b81f46999fb1afbe8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/81408876aa522f6b81f46999fb1afbe8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/06a20a4212c2771507f789c28d9ff4c7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/06a20a4212c2771507f789c28d9ff4c7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.Yalantis:GuillotineMenu-Android:1.2] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/GuillotineMenu-Android-1.2.aar/764d6d397c7db0aaa159e34797b05f47/AndroidManifest.xml:12:5-20
+MERGED from [com.github.Yalantis:GuillotineMenu-Android:1.2] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/GuillotineMenu-Android-1.2.aar/764d6d397c7db0aaa159e34797b05f47/AndroidManifest.xml:12:5-20
+MERGED from [com.android.volley:volley:1.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/856472cdf860a03075d4e371da23e4c9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/856472cdf860a03075d4e371da23e4c9/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/aa785e9892c04d131bc9760ae7d1f069/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/aa785e9892c04d131bc9760ae7d1f069/AndroidManifest.xml:9:5-20
+MERGED from [org.zakariya.stickyheaders:stickyheaders:0.7.6] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/stickyheaders-0.7.6.aar/377760671c6bf6344be8c5943d0f0be1/AndroidManifest.xml:11:5-14:19
+MERGED from [org.zakariya.stickyheaders:stickyheaders:0.7.6] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/stickyheaders-0.7.6.aar/377760671c6bf6344be8c5943d0f0be1/AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.clans:fab:1.6.4] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/f1e9548314bea18adc9b3d01f2d99c89/AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/f1e9548314bea18adc9b3d01f2d99c89/AndroidManifest.xml:12:5-20
+MERGED from [com.github.jlmd:AnimatedCircleLoadingView:1.1.5] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/AnimatedCircleLoadingView-1.1.5.aar/2f7ea244d4025ab40bbec30660b22a3b/AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.jlmd:AnimatedCircleLoadingView:1.1.5] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/AnimatedCircleLoadingView-1.1.5.aar/2f7ea244d4025ab40bbec30660b22a3b/AndroidManifest.xml:11:5-14:19
+MERGED from [com.google.android.gms:play-services-location-license:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.0.aar/cfbcdf9ccfc451a1cc9ce9c4b34fbe73/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-location-license:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.0.aar/cfbcdf9ccfc451a1cc9ce9c4b34fbe73/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.0.aar/a49935e12a83ca9292454b9f5c25b199/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.0.aar/a49935e12a83ca9292454b9f5c25b199/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/87bc3cb5109b2cd26af442e16ca3ebcf/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/87bc3cb5109b2cd26af442e16ca3ebcf/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/134d890c98ff9e6c1893bf86e640f051/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/134d890c98ff9e6c1893bf86e640f051/AndroidManifest.xml:5:5-6:19
+	android:supportsRtl
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:16:9-47
+	android:icon
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:14:9-42
+	android:allowBackup
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.food.hungerbite.app.LoginActivity
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:19:9-21:47
+	android:theme
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:21:13-44
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:20:13-42
+activity#com.food.hungerbite.app.LocationActivity
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:22:9-24:59
+	android:theme
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:23:13-45
+activity#com.food.hungerbite.app.RegisterationActivity
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:25:9-27:59
+	android:theme
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:26:13-50
+activity#com.food.hungerbite.app.FirstActivity
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:28:9-30:59
+	android:theme
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:29:13-42
+activity#com.food.hungerbite.app.MenuActivity
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:31:9-34:59
+	android:label
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:33:13-56
+	android:theme
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:32:13-41
+provider#com.food.hungerbite.app.UserContentProvider
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:36:9-40:39
+	android:enabled
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:39:13-35
+	android:authorities
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:38:13-61
+	android:exported
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:40:13-36
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:37:13-48
+activity#com.food.hungerbite.app.ShowCartActivity
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:42:9-45:15
+	android:theme
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:43:13-45
+activity#com.food.hungerbite.app.CheckoutFormActivity
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:46:9-48:75
+	android:theme
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:48:13-72
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:47:13-49
+meta-data#preloaded_fonts
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:50:9-52:57
+	android:resource
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:51:13-43
+activity#com.food.hungerbite.app.TestActivity
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:54:9-56:59
+	android:label
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:56:13-56
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:55:13-41
+activity#com.food.hungerbite.app.CheckoutActivity
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:57:9-61:20
+	android:label
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:59:13-46
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:58:13-45
+activity#com.food.hungerbite.app.ScrollingActivity
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:62:9-64:64
+	android:label
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:64:13-61
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:63:13-46
+activity#com.food.hungerbite.app.MainActivity
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:65:9-73:20
+	android:theme
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:67:13-56
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:66:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:68:13-72:29
+action#android.intent.action.MAIN
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:69:17-69
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:69:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:71:17-77
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:71:27-74
+activity#com.food.hungerbite.app.NoLoginAvtivity
+ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:74:9-53
+	android:name
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:74:19-50
+uses-sdk
+INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml
+MERGED from [com.github.badoualy:stepper-indicator:1.0.7] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/stepper-indicator-1.0.7.aar/051a81faaaa48782d023d099053ce680/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.badoualy:stepper-indicator:1.0.7] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/stepper-indicator-1.0.7.aar/051a81faaaa48782d023d099053ce680/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.medyo:android-about-page:1.2.4] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.4.aar/91b96527f492d108a0a9a8c23b874c41/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.medyo:android-about-page:1.2.4] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.4.aar/91b96527f492d108a0a9a8c23b874c41/AndroidManifest.xml:8:5-10:41
+MERGED from [com.ms-square:expandableTextView:0.1.4] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/expandableTextView-0.1.4.aar/12a235bee0ccea03a74a35e31979711c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.ms-square:expandableTextView:0.1.4] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/expandableTextView-0.1.4.aar/12a235bee0ccea03a74a35e31979711c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/6901eb763af698dd442fe59607498e3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/6901eb763af698dd442fe59607498e3b/AndroidManifest.xml:20:5-44
+MERGED from [me.himanshusoni.quantityview:quantity-view:1.2.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/quantity-view-1.2.0.aar/8c624649461c8e7811cf797924d7e61e/AndroidManifest.xml:7:5-9:41
+MERGED from [me.himanshusoni.quantityview:quantity-view:1.2.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/quantity-view-1.2.0.aar/8c624649461c8e7811cf797924d7e61e/AndroidManifest.xml:7:5-9:41
+MERGED from [br.com.simplepass:loading-button-android:1.14.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/loading-button-android-1.14.0.aar/da6071aade0021ad3e00bfb21da4a9d9/AndroidManifest.xml:7:5-9:41
+MERGED from [br.com.simplepass:loading-button-android:1.14.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/loading-button-android-1.14.0.aar/da6071aade0021ad3e00bfb21da4a9d9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.florent37:materialtextfield:1.0.7] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/materialtextfield-1.0.7.aar/eb40efc94f8d66711993379e88850139/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.florent37:materialtextfield:1.0.7] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/materialtextfield-1.0.7.aar/eb40efc94f8d66711993379e88850139/AndroidManifest.xml:8:5-10:41
+MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/sectionedrecyclerviewadapter-1.2.0.aar/d859a0f5f1f581c11a9093c60b92989a/AndroidManifest.xml:8:5-10:41
+MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/sectionedrecyclerviewadapter-1.2.0.aar/d859a0f5f1f581c11a9093c60b92989a/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.javiersantos:BottomDialogs:1.2.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/BottomDialogs-1.2.1.aar/125651df4dc1ced2cf319b2f845013db/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.javiersantos:BottomDialogs:1.2.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/BottomDialogs-1.2.1.aar/125651df4dc1ced2cf319b2f845013db/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/FancyGifDialog-Android-1.1.aar/04d5d790d6a6f7257770e71c1b2f334b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/FancyGifDialog-Android-1.1.aar/04d5d790d6a6f7257770e71c1b2f334b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/dea8638f085cad7f768d4a40e652ba16/AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/dea8638f085cad7f768d4a40e652ba16/AndroidManifest.xml:8:5-11:75
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/02e1ea484bd3f1364766cdd3f35a4b0b/AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/02e1ea484bd3f1364766cdd3f35a4b0b/AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/112479a7fc3d1b6f2226223998dd4712/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/112479a7fc3d1b6f2226223998dd4712/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d72171b6d4ee49f593663f4c55a8f974/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d72171b6d4ee49f593663f4c55a8f974/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:palette-v7:22.2.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/palette-v7-22.2.0.aar/9f21ec75b31268a3e82eadf65973e27d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:22.2.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/palette-v7-22.2.0.aar/9f21ec75b31268a3e82eadf65973e27d/AndroidManifest.xml:20:5-43
+MERGED from [com.github.systembugtj:autoupdate:1.6.8] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/autoupdate-1.6.8.aar/aa8600ba6f349c3c1a2470e960fa73cf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.systembugtj:autoupdate:1.6.8] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/autoupdate-1.6.8.aar/aa8600ba6f349c3c1a2470e960fa73cf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.0.aar/862985f5699c2997a3a4d39f453d2574/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.0.aar/862985f5699c2997a3a4d39f453d2574/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/4a7410cc28ab3c3d525d341b7fce9e81/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/4a7410cc28ab3c3d525d341b7fce9e81/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/81408876aa522f6b81f46999fb1afbe8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/81408876aa522f6b81f46999fb1afbe8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/06a20a4212c2771507f789c28d9ff4c7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/06a20a4212c2771507f789c28d9ff4c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b2478e8cf3d8f5169e579a2899416d92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b2478e8cf3d8f5169e579a2899416d92/AndroidManifest.xml:20:5-44
+MERGED from [com.github.Yalantis:GuillotineMenu-Android:1.2] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/GuillotineMenu-Android-1.2.aar/764d6d397c7db0aaa159e34797b05f47/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.Yalantis:GuillotineMenu-Android:1.2] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/GuillotineMenu-Android-1.2.aar/764d6d397c7db0aaa159e34797b05f47/AndroidManifest.xml:8:5-10:41
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/28ddf6bafabb65514f1157bf72ebd37e/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/28ddf6bafabb65514f1157bf72ebd37e/AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/856472cdf860a03075d4e371da23e4c9/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/856472cdf860a03075d4e371da23e4c9/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/b2414044482b919531bef41bfd008e13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/b2414044482b919531bef41bfd008e13/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/aa785e9892c04d131bc9760ae7d1f069/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/aa785e9892c04d131bc9760ae7d1f069/AndroidManifest.xml:5:5-7:41
+MERGED from [org.zakariya.stickyheaders:stickyheaders:0.7.6] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/stickyheaders-0.7.6.aar/377760671c6bf6344be8c5943d0f0be1/AndroidManifest.xml:7:5-9:41
+MERGED from [org.zakariya.stickyheaders:stickyheaders:0.7.6] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/stickyheaders-0.7.6.aar/377760671c6bf6344be8c5943d0f0be1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/fa05ffbedb64fd040f8bf9c2a00dfbe9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/fa05ffbedb64fd040f8bf9c2a00dfbe9/AndroidManifest.xml:20:5-44
+MERGED from [com.github.clans:fab:1.6.4] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/f1e9548314bea18adc9b3d01f2d99c89/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/f1e9548314bea18adc9b3d01f2d99c89/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.jlmd:AnimatedCircleLoadingView:1.1.5] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/AnimatedCircleLoadingView-1.1.5.aar/2f7ea244d4025ab40bbec30660b22a3b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.jlmd:AnimatedCircleLoadingView:1.1.5] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/AnimatedCircleLoadingView-1.1.5.aar/2f7ea244d4025ab40bbec30660b22a3b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/sdp-android-1.0.5.aar/5a7ab633cb72c0b946640eb32d11694b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/sdp-android-1.0.5.aar/5a7ab633cb72c0b946640eb32d11694b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:transition:27.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/1344c96482665e2ce71692daddf78350/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/1344c96482665e2ce71692daddf78350/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4ce86319ab721fbf13adf1b183993c5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4ce86319ab721fbf13adf1b183993c5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/1cb4dc06bf98269557b88d064b10990a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/1cb4dc06bf98269557b88d064b10990a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0d8a3c9137a17795b30a959de62b423b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0d8a3c9137a17795b30a959de62b423b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/57975afeab3c417455d4aed8720b06ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/57975afeab3c417455d4aed8720b06ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/db5680b9ec740c068bf2ba06903eaef6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/db5680b9ec740c068bf2ba06903eaef6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/1411da8dcb658cfcff4dcc7fab1dfffd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/1411da8dcb658cfcff4dcc7fab1dfffd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ac617baf6fdeffcd6481e5338846cff8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ac617baf6fdeffcd6481e5338846cff8/AndroidManifest.xml:20:5-44
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.10.aar/d28dfe5c9c41e220a717d617ef01afb8/AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.10.aar/d28dfe5c9c41e220a717d617ef01afb8/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/529839dbcf00c0cf2ce01c6fa26b15b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/529839dbcf00c0cf2ce01c6fa26b15b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/56c0847d244b50e80787975cdf52bd1d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/56c0847d244b50e80787975cdf52bd1d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e518e7832c5649fff694598d7d50827c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e518e7832c5649fff694598d7d50827c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a40c3c4bea9d5c890a4eccce595041c2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a40c3c4bea9d5c890a4eccce595041c2/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/dea8638f085cad7f768d4a40e652ba16/AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml
+provider#android.support.v4.content.FileProvider
+ADDED from [com.github.systembugtj:autoupdate:1.6.8] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/autoupdate-1.6.8.aar/aa8600ba6f349c3c1a2470e960fa73cf/AndroidManifest.xml:14:9-22:20
+	android:grantUriPermissions
+		ADDED from [com.github.systembugtj:autoupdate:1.6.8] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/autoupdate-1.6.8.aar/aa8600ba6f349c3c1a2470e960fa73cf/AndroidManifest.xml:18:13-47
+	android:authorities
+		ADDED from [com.github.systembugtj:autoupdate:1.6.8] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/autoupdate-1.6.8.aar/aa8600ba6f349c3c1a2470e960fa73cf/AndroidManifest.xml:16:13-51
+	android:exported
+		ADDED from [com.github.systembugtj:autoupdate:1.6.8] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/autoupdate-1.6.8.aar/aa8600ba6f349c3c1a2470e960fa73cf/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [com.github.systembugtj:autoupdate:1.6.8] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/autoupdate-1.6.8.aar/aa8600ba6f349c3c1a2470e960fa73cf/AndroidManifest.xml:15:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.github.systembugtj:autoupdate:1.6.8] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/autoupdate-1.6.8.aar/aa8600ba6f349c3c1a2470e960fa73cf/AndroidManifest.xml:19:13-21:49
+	android:resource
+		ADDED from [com.github.systembugtj:autoupdate:1.6.8] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/autoupdate-1.6.8.aar/aa8600ba6f349c3c1a2470e960fa73cf/AndroidManifest.xml:21:17-46
+	android:name
+		ADDED from [com.github.systembugtj:autoupdate:1.6.8] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/autoupdate-1.6.8.aar/aa8600ba6f349c3c1a2470e960fa73cf/AndroidManifest.xml:20:17-67
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/4a7410cc28ab3c3d525d341b7fce9e81/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/4a7410cc28ab3c3d525d341b7fce9e81/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/4a7410cc28ab3c3d525d341b7fce9e81/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/4a7410cc28ab3c3d525d341b7fce9e81/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/06a20a4212c2771507f789c28d9ff4c7/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/06a20a4212c2771507f789c28d9ff4c7/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.0] /Users/kashishgupta/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/06a20a4212c2771507f789c28d9ff4c7/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:2:1-77:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:2:1-77:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/kashishgupta/AndroidStudioProjects/hungerbite_official/app/src/main/AndroidManifest.xml:2:1-77:12 reason: com.google.android.gms.license requested WRITE_EXTERNAL_STORAGE

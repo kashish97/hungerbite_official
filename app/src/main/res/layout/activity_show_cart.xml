@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:isScrollContainer="true"
+    tools:context=".ShowCartActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="@dimen/_7sdp"
+        android:layout_height="wrap_content"
+
+
+        android:fontFamily="@font/montserrat"
+        android:text="Delivering To:"
+        android:textColor="@color/black" />
+
+
+    <AutoCompleteTextView
+        android:id="@+id/autoCompleteTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/buttonLogin"
+        android:layout_marginLeft="@dimen/_57sdp"
+        android:focusable="false"
+        android:fontFamily="@font/montserrat"
+        android:text="AutoCompleteTextView"
+        android:textColor="@color/nexttoblack"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.423"
+        app:layout_constraintStart_toEndOf="@+id/textView18"
+        app:layout_constraintTop_toTopOf="@+id/textView18" />
+</LinearLayout>
+    <TableRow
+        android:id="@+id/hr"
+        android:layout_width="match_parent"
+        android:layout_height="1sp"
+        android:background="#07000000">
+
+    </TableRow>
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="157dp"
+        android:layout_height="24dp"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:layout_marginLeft="@dimen/_7sdp"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/hr"
+        android:fontFamily="@font/montserrat"
+        android:text="Your Cart:"
+        android:textColor="@color/nexttoblack"
+        android:textSize="20sp"
+        android:textStyle="bold"
+       />
+
+    <ListView
+        android:id="@+id/lv1"
+        android:layout_width="371dp"
+        android:layout_height="199dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="@dimen/_3sdp"
+        android:layout_marginRight="@dimen/_3sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:divider="#07000000"
+        android:dividerHeight="2px"
+        app:layout_constraintBottom_toTopOf="@+id/textView9"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/textView8"
+        tools:ignore="MissingConstraints" />
+    <TableRow
+        android:id="@+id/hr1"
+        android:layout_width="match_parent"
+        android:layout_height="1sp"
+        android:layout_marginTop="@dimen/_6sdp"
+        android:background="#07000000"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="@dimen/_10sdp"
+
+        android:layout_marginLeft="@dimen/_37sdp"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="179dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+
+            android:fontFamily="@font/montserrat"
+            android:text="SubTotal :"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="18dp"
+            android:layout_height="wrap_content"
+
+            android:layout_toStartOf="@+id/textView11"
+            android:text="@string/rupee"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="138dp"
+            android:layout_height="wrap_content"
+
+
+            android:fontFamily="@font/montserrat"
+            android:text="000"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginLeft="@dimen/_37sdp"
+
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="179dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView9"
+            android:fontFamily="@font/montserrat"
+            android:text="GST   :"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@+id/textView7"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/textView9" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="18dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView9"
+
+
+            android:layout_toStartOf="@+id/textView11"
+            android:text="@string/rupee"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            app:layout_constraintStart_toStartOf="@+id/textView16"
+            app:layout_constraintTop_toTopOf="@+id/textView7" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="146dp"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/textView11"
+            android:layout_alignParentEnd="true"
+
+            android:fontFamily="@font/montserrat"
+            android:text="000"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/textView12"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/textView12"
+            app:layout_constraintTop_toTopOf="@+id/textView16"
+            app:layout_constraintVertical_bias="0.0" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginLeft="@dimen/_37sdp"
+
+        android:layout_marginBottom="@dimen/_4sdp"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="179dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView14"
+            android:layout_toStartOf="@+id/autoCompleteTextView"
+            android:fontFamily="@font/montserrat"
+            android:text="Total After GST :"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@+id/textView17"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/textView14" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="18dp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/textView9"
+
+            android:layout_toStartOf="@+id/textView11"
+            android:text="@string/rupee"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            app:layout_constraintEnd_toEndOf="@+id/textView10"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/textView10"
+            app:layout_constraintTop_toTopOf="@+id/textView14" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="143dp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/textView9"
+            android:layout_alignStart="@+id/textView15"
+
+            android:fontFamily="@font/montserrat"
+            android:text="000"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@+id/textView15"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toEndOf="@+id/textView10"
+            app:layout_constraintTop_toTopOf="@+id/textView9"
+            app:layout_constraintVertical_bias="0.0" />
+    </LinearLayout>
+    <TableRow
+        android:id="@+id/hr3"
+        android:layout_width="match_parent"
+        android:layout_height="1sp"
+        android:background="#07000000"/>
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="222dp"
+        android:layout_height="29dp"
+        android:layout_above="@+id/textInputLayout"
+        android:layout_alignStart="@+id/buttonLogin"
+
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginLeft="@dimen/_7sdp"
+
+        android:fontFamily="@font/montserrat"
+        android:text="Have a Promo Code?"
+        android:textColor="@color/nexttoblack"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@+id/textInputLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.098"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:layout_marginLeft="@dimen/_7sdp"
+
+        android:layout_marginTop="@dimen/_5sdp">
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/textInputLayout"
+            android:layout_width="wrap_content"
+
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+
+            android:layout_alignStart="@+id/buttonLogin"
+
+            android:focusable="false"
+            android:textColorHint="@color/g"
+            app:layout_constraintBottom_toTopOf="@+id/buttonLogin"
+            app:layout_constraintStart_toStartOf="@+id/textView17">
+
+            <EditText
+                android:id="@+id/editText3"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+
+
+                android:ems="10"
+                android:fontFamily="@font/montserrat"
+                android:hint="Apply Here"
+                android:inputType="textPersonName"
+                android:textColor="@color/black"
+
+                />
+        </android.support.design.widget.TextInputLayout>
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="59dp"
+            android:layout_height="39dp"
+            android:layout_alignBottom="@+id/textInputLayout"
+            android:layout_alignEnd="@+id/buttonLogin"
+            android:layout_marginLeft="@dimen/_45sdp"
+            android:background="@drawable/mol"
+            android:fontFamily="@font/montserrat"
+            android:text="Apply"
+            android:textColor="@color/g"
+          />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/buttonLogin"
+        android:layout_width="@dimen/_260sdp"
+        android:layout_height="@dimen/_37sdp"
+
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginTop="@dimen/_42sdp"
+        android:background="@drawable/butonborder"
+        android:elevation="130sp"
+        android:text="Proceed"
+        android:textColor="@color/g" />
+    </LinearLayout>
+</ScrollView>

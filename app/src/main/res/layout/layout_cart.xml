@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:background="@color/white"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tvnamef"
+            android:layout_width="227dp"
+            android:layout_height="30dp"
+
+            android:layout_marginBottom="8dp"
+            android:layout_marginStart="16dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/montserrat"
+            android:text="TextView"
+            android:textColor="@color/black"
+            app:layout_constraintBottom_toTopOf="@+id/tvpricef"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="35dp"
+            android:layout_height="33dp"
+
+            android:layout_marginEnd="88dp"
+            android:layout_weight="1"
+            android:background="@drawable/plu"
+            android:fontFamily="@font/montserrat"
+            android:textColor="@color/g"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@+id/tvpricef"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/tvnamef"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="35dp"
+            android:layout_height="33dp"
+
+            android:layout_weight="1"
+            android:background="@drawable/min"
+            android:fontFamily="@font/montserrat"
+            android:textColor="@color/g"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@+id/button5"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.728"
+            app:layout_constraintStart_toEndOf="@+id/button5"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <TextView
+            android:id="@+id/tvpricef"
+            android:layout_width="361dp"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/montserrat"
+            android:text="TextView"
+            android:textColor="@color/black"
+            android:textSize="13sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/tvnamef" />
+
+        <TextView
+            android:id="@+id/qt"
+            android:layout_width="26dp"
+            android:layout_height="23dp"
+
+            android:text="qty"
+            android:textColor="@color/black"
+            android:visibility="visible"
+            app:layout_constraintBottom_toBottomOf="@+id/button5"
+            app:layout_constraintEnd_toStartOf="@+id/button2"
+            app:layout_constraintStart_toEndOf="@+id/button5"
+            app:layout_constraintTop_toTopOf="@+id/button5" />
+    </android.support.constraint.ConstraintLayout>
+</LinearLayout>
